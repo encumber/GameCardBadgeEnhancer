@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Steam Game Card Badge Enhancer (Cached & Styled) - Foil Animation
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/encumber
 // @version      1.4
 // @description  Enhances Steam game card pages with cached badge information from steamsets.com, highlighting foils with an animation and showing levels on separate lines, inserted after a specific element.
-// @author       Your Name
+// @author       Nitoned
 // @match        https://steamcommunity.com/*/gamecards/*
 // @grant        GM_xmlhttpRequest
 // @connect      api.steamsets.com
